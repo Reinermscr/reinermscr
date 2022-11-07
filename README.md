@@ -42,7 +42,20 @@ NOTA: Lenguajes pendientes por aprender
 -->
 </div>
 
-
+<h2>En este moemnto estoy acargo del sitio web colonoconstrucion.com como encargado de la plataforma y sus actualizaciones constates o mejora en diferentes áreas como lo puede ser 
+<br>
+• Logistics
+<br>
+• UX & UI
+<br>
+• Desing
+<br>
+• Customer Service
+<br>
+• Social media
+<br>
+• Integrations
+</h2>
 
 
 <hr>
