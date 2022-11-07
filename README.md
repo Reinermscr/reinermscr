@@ -41,7 +41,7 @@ NOTA: Lenguajes pendientes por aprender
 -->
 </div>
 
-<h2>En este moemnto estoy acargo del sitio web colonoconstrucion.com como encargado de la plataforma y sus actualizaciones constates o mejora en diferentes áreas como lo puede ser 
+<h5>En este moemnto estoy acargo del sitio web colonoconstrucion.com, como encargado de la plataforma y sus actualizaciones constates o bien mejora en las diferentes áreas como lo puede ser: 
 <br>
 • Logistics
 <br>
@@ -54,7 +54,7 @@ NOTA: Lenguajes pendientes por aprender
 • Social media
 <br>
 • Integrations
-</h2>
+</h5>
 
 
 <hr>
