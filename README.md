@@ -45,7 +45,7 @@ NOTA: Lenguajes pendientes por aprender
 
 ![Snake animation](https://github.com/reinermscr/reinermscr/blob/output/github-contribution-grid-snake.svg)
 
-<h5>En este moemnto estoy acargo del sitio (<a href="https://www.colonoconstruccion.com/ec-colono/index.php">) web colonoconstrucion.com, como encargado de la plataforma y sus actualizaciones constates o bien mejora en las diferentes áreas como lo puede ser: 
+<h5>En este moemnto estoy acargo del sitio ( a href="https://www.colonoconstruccion.com/ec-colono/index.php") web colonoconstrucion.com, como encargado de la plataforma y sus actualizaciones constates o bien mejora en las diferentes áreas como lo puede ser: 
 <br>
 • Logistics
 <br>
