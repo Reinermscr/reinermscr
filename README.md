@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML">
 <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS">
 <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript">
+<img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/adobexd.svg"title="Adobe XD">
+
+
 
 <!--
 NOTA: Lenguajes pendientes por aprender
@@ -45,6 +48,7 @@ NOTA: Lenguajes pendientes por aprender
 
 ![Snake animation](https://github.com/reinermscr/reinermscr/blob/output/github-contribution-grid-snake.svg)
 
+<p>Actualmente laborando en Colono Construcción desde el 2019<p>
 <p>En este momento estoy acargo del sitio Colono Construcción (https://www.colonoconstruccion.com) y como encargado tengo que estar al tanto de la plataforma y sus actualizaciones constates o bien mejora de las diferentes áreas como lo puede ser: 
 <br>
 • Logistics
