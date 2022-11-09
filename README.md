@@ -49,6 +49,10 @@ NOTA: Lenguajes pendientes por aprender
 
 ![Snake animation](https://github.com/reinermscr/reinermscr/blob/output/github-contribution-grid-snake.svg)
 
+<p>Puedes observar mas de hoja de vida en el siguiente enlace:<p>
+<h3>https://reinermscr.github.io/reinermscr/cv.html</h3>
+
+
 <p>Actualmente laborando en Colono Construcción desde el 2019<p>
 <p>En este momento estoy acargo del sitio Colono Construcción (https://www.colonoconstruccion.com) y como encargado tengo que estar al tanto de la plataforma y sus actualizaciones constates o bien mejora de las diferentes áreas como lo puede ser: 
 <br>
