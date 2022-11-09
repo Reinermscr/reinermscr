@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML">
 <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS">
 <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript">
-<img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@7.19.0/icons/adobexd.svg"title="Adobe XD">
+<img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/bootstrap/bootstrap-plain.svg"title="Bootstrap">
+<img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/visualstudio/visualstudio-plain.svg"title="Visual Studio">
 
 
 
