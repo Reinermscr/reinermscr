@@ -50,7 +50,7 @@ NOTA: Lenguajes pendientes por aprender
 ![Snake animation](https://github.com/reinermscr/reinermscr/blob/output/github-contribution-grid-snake.svg)
 
 <p>Puedes observar mas de hoja de vida en el siguiente enlace:<p>
-<h3>https://reinermscr.github.io/reinermscr/cv.html</h3>
+<h3>https://reinermscr.github.io/reinermscr/</h3>
 
 
 <p>Actualmente laborando en <strong>Colono Construcción</strong> desde el 2019<p>
