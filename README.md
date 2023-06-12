@@ -1,4 +1,4 @@
-<div align="center">Hi there 👋</div>
+<div align="center">Hola bienvenido a mi hoja de vida 👋</div>
 <br>
 
 <!--
@@ -49,6 +49,6 @@ NOTA: Lenguajes pendientes por aprender
 
 ![Snake animation](https://github.com/reinermscr/reinermscr/blob/output/github-contribution-grid-snake.svg)
 
-<p>Puedes obtener mas informacion sobre mi hoja de vida en el siguiente enlace:<p>
-<h3>https://reinermscr.github.io/reinermscr/</h3>
-<p>Dentro del enlace observara todo el historial con mis estudios, experiencia, trayectorias y avances que he logrado al estudiar Ingieneria en sistemas</p>
+<p>Puedes obtener más información sobre mi hoja de vida en el siguiente enlace:<p>
+<a href="https://reinermscr.github.io/reinermscr/"><h3> Hoja de vida Reiner Mora Saborio </h3><a>
+<p>Dentro del enlace observara todo el historial con mis estudios, experiencia, trayectorias y avances que he logrado al estudiar Ingeniería en sistemas.</p>
