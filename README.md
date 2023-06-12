@@ -16,13 +16,17 @@ Here are some ideas to get you started:
     <img height=150em src = "https://github-readme-stats.vercel.app/api?username=reinermscr&show_icons=true&theme=github_dark&show_all_comits=true&count_private=true"/>
     <img height=150em src = "https://github-readme-stats.vercel.app/api/top-langs?username=reinermscr&layout=compact&theme=github_dark&show_owner=false&langs_count=16" />
 </div>
+
 <div align="center">
+    
 <br>
+    
 <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML">
 <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS">
 <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript">
 <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/bootstrap/bootstrap-plain.svg"title="Bootstrap">
 <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/visualstudio/visualstudio-plain.svg"title="Visual Studio">
+    
 <!--
 NOTA: Lenguajes pendientes por aprender
 <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS"/>
@@ -37,7 +41,9 @@ NOTA: Lenguajes pendientes por aprender
 </div>
 -->
 </div>
+
 <hr>
+
 ![Snake animation](https://github.com/reinermscr/reinermscr/blob/output/github-contribution-grid-snake.svg)
 
 <p>Puedes obtener más información sobre mi hoja de vida en el siguiente enlace:<p>
