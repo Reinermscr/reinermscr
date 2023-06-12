@@ -49,22 +49,6 @@ NOTA: Lenguajes pendientes por aprender
 
 ![Snake animation](https://github.com/reinermscr/reinermscr/blob/output/github-contribution-grid-snake.svg)
 
-<p>Puedes observar mas de hoja de vida en el siguiente enlace:<p>
+<p>Puedes obtener mas informacion sobre mi hoja de vida en el siguiente enlace:<p>
 <h3>https://reinermscr.github.io/reinermscr/</h3>
-
-
-<p>Actualmente laborando en <strong>Colono Construcción</strong> desde el 2019<p>
-<p>En este momento estoy acargo del sitio Colono Construcción (https://www.colonoconstruccion.com) y como encargado tengo que estar al tanto de la plataforma y sus actualizaciones constates o bien mejora de las diferentes áreas como lo puede ser: 
-<br>
-• Logistics
-<br>
-• UX & UI
-<br>
-• Desing
-<br>
-• Customer Service
-<br>
-• Social media
-<br>
-• Integrations
-</p>
+<p>Dentro del enlace observara todo el historial con mis estudios, experiencia, trayectorias y avances que he logrado al estudiar Ingieneria en sistemas</p>
