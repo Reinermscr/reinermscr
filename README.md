@@ -41,5 +41,5 @@ NOTA: Lenguajes pendientes por aprender
 ![Snake animation](https://github.com/reinermscr/reinermscr/blob/output/github-contribution-grid-snake.svg)
 
 <p>Puedes obtener más información sobre mi hoja de vida en el siguiente enlace:<p>
-<h3>Igresa<a href="https://reinermscr.github.io/reinermscr/"> aqui <a>para ver la hoja de vida </h3>
+<h3>Ingresa<a href="https://reinermscr.github.io/reinermscr/"> aqui <a>para ver la hoja de vida.</h3>
 <p>Dentro del enlace observara todo el historial con mis estudios, experiencia, trayectorias y avances que he logrado al estudiar Ingeniería en sistemas.</p>
