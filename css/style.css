@@ -14,31 +14,60 @@ nav {
 }
 
 .nav-nombre {
-    text-transform: uppercase;
-}
-
-.nav-section {
+    margin: 0px 25px 0px 0px;
     display: flex;
+    text-transform: uppercase;
+    align-items: center;
 }
 
-.nav-section-text {
-    padding: 0px 5px;
-    margin-top: 15px;
+.nav-nombre > h1 {
+    margin: 0px 0px 0px 10px;
 }
 
-
+.select {
+    text-align: center;
+    height: 25px;
+    width: 200px;
+    border-radius: 5px;
+    background-color:  #14192C;
+    color: #FFFFFF;
+}
 
 body {
     background-color: #14192C;
     background-size: cover;
 }
 
-footer {
+main > div > h1 {
+    text-align: center;
+    color: #FAD9B1;
+} 
 
+.resumContainerGithub {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.imgLengu {
+    width: 30px;
+}
+
+.imgContainer {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: start;
+    padding: 5px;
+    color: #FAD9B1;
+}
+
+
+footer {
     background-color: #FAD9B1;
     height: 150px;
     width: 100%;
-
 }
 
 .color-div {

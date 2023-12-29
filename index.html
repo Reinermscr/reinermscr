@@ -13,66 +13,79 @@
 </head>
 
 <body>
-    
+
 
     <header>
         <nav>
             <div class="nav-nombre">
+                <i class=" fa-regular fa-circle-user fa-xl"></i>
                 <h1>
                     Reiner Mora S.
                 </h1>
             </div>
-            <div class="nav-section">
-                <div class="nav-section-text">
+            <select class="select">
+                <option value="Educacion">
+                    <p>Secciones de pagina</p>
+                </option>
+                <option value="Educacion">
                     <p>Educación</p>
-                </div>
-                <div class="nav-section-text">
+                </option>
+                <option value="Experiencia">
                     <p>Experiencia</p>
-                </div>
-                <div class="nav-section-text">
+                </option>
+                <option value="Idiomas">
                     <p>Idiomas</p>
-                </div>
-                <div class="nav-section-text">
+                </option>
+                <option value="Habilidades software">
                     <p>Habilidades software</p>
-                </div>
-                <div class="nav-section-text">
+                </option>
+                <option value="Habilidades blandas">
                     <p>Habilidades blandas</p>
-                </div>
-                <div class="nav-section-text">
+                </option>
+                <option value="Habilidades hardware">
                     <p>Habilidades hardware</p>
-                </div>
-            </div>
+                </option>
+            </select>
         </nav>
     </header>
 
     <main>
         <div>
-            <h1>Github</h1>
+            <h1>Resumen de Github</h1>
         </div>
 
-        <div >
+        <div class="resumContainerGithub">
             <div>
-                <img
-                    src="https://github-readme-stats.vercel.app/api?username=reinermscr&show_icons=true&theme=github_dark&show_all_comits=true&count_private=true" />
-
-            </div>
-            <div><img
+                <img class="imgGit"
                     src="https://github-readme-stats.vercel.app/api/top-langs?username=reinermscr&layout=compact&theme=github_dark&show_owner=false&langs_count=16" />
             </div>
-            <div>
-                <img align="center" alt="HTML" height="30" width="40"
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML">
-                <img align="center" alt="CSS" height="30" width="40"
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS">
-                <!-- <img align="center" alt="Js" height="30" width="40"
-                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-                        title="Javascript">-->
-                <img align="center" alt="Js" height="30" width="40"
-                    src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/bootstrap/bootstrap-plain.svg"
-                    title="Bootstrap">
-                <img align="center" alt="Js" height="30" width="40"
-                    src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/visualstudio/visualstudio-plain.svg"
-                    title="Visual Studio">
+            <div >
+                <div class="imgContainer">
+                    <img class="imgLengu" alt="HTML"
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML">
+                    <p>HTML 5:</p>
+                </div>
+                <div class="imgContainer">
+                    <img class="imgLengu" alt="CSS"
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS">
+                        <p>CSS 3:</p>
+                </div>
+                <div class="imgContainer">
+                    
+                    <img class="imgLengu" alt="Js"
+                        src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/bootstrap/bootstrap-plain.svg"
+                        title="Bootstrap">
+                        <p>Bootstrap:</p>
+                </div>
+                <div class="imgContainer">
+                    
+                    <img class="imgLengu" alt="Js"
+                        src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/visualstudio/visualstudio-plain.svg"
+                        title="Visual Studio">
+                        <p>Visual Studio:</p>
+                </div>
+
+
             </div>
         </div>
         <!--Fin Git-->
@@ -148,11 +161,17 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
         integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
         crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/2820f2bffd.js" crossorigin="anonymous"></script>
 
 </body>
 
 
 
 <script src="/js/js.js"></script>
+
+<!--Comentario de recurso
+Los iconos provienen e https://fontawesome.com/
+
+-->
 
 </html>
