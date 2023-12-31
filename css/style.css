@@ -19,12 +19,7 @@ body {
     background-color: #14192C;
 }
 
-footer {
-    display: block;
-    background-color: #FAD9B1;
-    height: 150px;
-    width: 100%;
-}
+
 
 /* 
 Color 1 #14192C
@@ -33,6 +28,8 @@ Color 3 #FAD9B1
 Color 4 #FFFFFF
 
    */
+
+/* inicio de cards*/
 
 .btnvisit {
     text-transform: uppercase;
@@ -138,11 +135,9 @@ Color 4 #FFFFFF
     inset: 5px;
     border-radius: 15px;
 }
-
 /*Finaliza card construccion*/
 
 /*inicio card agropecuario*/
-
 .imgContAgro{
     display: flex;
     justify-content: center;
@@ -207,12 +202,9 @@ Color 4 #FFFFFF
     inset: 5px;
     border-radius: 15px;
 }
-
-
 /*Finaliza card agropecuario*/
 
 /*inicio card Clips*/
-
 .imgContClips{
     display: flex;
     justify-content: center;
@@ -279,3 +271,14 @@ Color 4 #FFFFFF
 
 
 /*Finaliza card Clips*/
+
+/* Finaliza de cards*/
+
+footer {
+    display: block;
+    background-color: #FAD9B1;
+    height: 150px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
