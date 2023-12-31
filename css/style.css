@@ -1,16 +1,11 @@
-.bg_header {
-    background-color: aliceblue;
-    width: 100%;
-    height: 10px;
-}
-
 nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
     color: #FAD9B1;
-    background-color: #E7633B;
-    
+    background-image: linear-gradient(#E7633B, #14192C);
+    height: 100px;
+
 }
 
 .nav-nombre {
@@ -20,73 +15,15 @@ nav {
     align-items: center;
 }
 
-.nav-nombre > h1 {
-    margin: 0px 0px 0px 10px;
-}
-
-.select {
-    text-align: center;
-    height: 25px;
-    width: 200px;
-    border-radius: 5px;
-    background-color:  #14192C;
-    color: #FFFFFF;
-}
-
 body {
     background-color: #14192C;
-    background-size: cover;
-}
-
-main > div > h1 {
-    text-align: center;
-    color: #FAD9B1;
-} 
-
-.resumContainerGithub {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    padding: 10px;
-}
-
-.imgLengu {
-    width: 30px;
-}
-
-.imgContainer {
-    display: flex;
-    align-items: center;
-    padding: 4px;
-    color: #FAD9B1;
-    
-}
-
-.imgContainer > p {
-    max-width: 700px;
-    min-width: 500px;
-    color: #ffffff;
-}
-
-.imgContainer > h5 {
-    width: 200px;
-    height: 30px;
-    color: #FAD9B1;
-    margin: 0px 0px 0px 0px;
-    padding-left: 10px;
 }
 
 footer {
+    display: block;
     background-color: #FAD9B1;
     height: 150px;
     width: 100%;
-}
-
-.color-div {
-    background-color: #0f2747;
-    width: 100%;
-    height: 5px;
-    border-radius: 10px;
 }
 
 /* 
@@ -96,3 +33,249 @@ Color 3 #FAD9B1
 Color 4 #FFFFFF
 
    */
+
+.btnvisit {
+    text-transform: uppercase;
+    border-radius: 8px;
+    font-size: 17px;
+    font-weight: 500;
+    color: #ffffff80;
+    text-shadow: none;
+    background: transparent;
+    box-shadow: transparent;
+    border: 1px solid #ffffff80;
+    transition: 0.5s ease;
+    user-select: none;
+}
+
+.btnvisit:hover {
+    color: #ffffff;
+    background: #008cff;
+    border: 1px solid #008cff;
+    text-shadow: 0 0 5px #ffffff,
+        0 0 10px #ffffff,
+        0 0 20px #ffffff;
+    box-shadow: 0 0 5px #008cff,
+        0 0 20px #008cff,
+        0 0 50px #008cff,
+        0 0 100px #008cff;
+}
+
+.allCards {
+    display: flex;
+
+    flex-direction: row;
+    justify-content: center;
+}
+
+.textExp {
+    text-align: center;
+    color: #ffffff;
+}
+
+/*inicio card construccion*/
+
+.imgContConst{
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 80px;
+}
+
+.imgCons {
+    width: 150px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.cardCons {
+    width: 250px;
+    height: 350px;
+    background: #07182E;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    place-content: center;
+    place-items: center;
+    overflow: hidden;
+    border-radius: 20px;
+    margin: 25px;
+}
+
+.cardCons div {
+    z-index: 1;
+    color: #ffffff;
+}
+
+.cardTextCons {
+    padding: 10px;
+}
+
+.cardCons::before {
+    content: '';
+    position: absolute;
+    width: 100px;
+    background-image: linear-gradient(180deg, #006b98, #006b98);
+    height: 150%;
+    animation: rotBGimg 10s linear infinite;
+    transition: all 0.2s linear;
+}
+
+@keyframes rotBGimg {
+    from {
+        transform: rotate(deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.cardCons::after {
+    content: '';
+    position: absolute;
+    background: #07182E;
+    inset: 5px;
+    border-radius: 15px;
+}
+
+/*Finaliza card construccion*/
+
+/*inicio card agropecuario*/
+
+.imgContAgro{
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 80px;
+}
+
+.imgAgro {
+    background-color: #ffffff;
+    width: 150px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.cardAgro {
+    width: 250px;
+    height: 350px;
+    background: #07182E;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    place-content: center;
+    place-items: center;
+    overflow: hidden;
+    border-radius: 20px;
+    margin: 25px;
+}
+
+.cardAgro div {
+    z-index: 1;
+    color: #ffffff;
+}
+
+.cardTextAgro {
+    padding: 10px;
+}
+
+.cardAgro::before {
+    content: '';
+    position: absolute;
+    width: 100px;
+    background-image: linear-gradient(180deg, #28a745, #28a745);
+    height: 150%;
+    animation: rotBGimg 10s linear infinite;
+    transition: all 0.2s linear;
+}
+
+@keyframes rotBGimg {
+    from {
+        transform: rotate(deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.cardAgro::after {
+    content: '';
+    position: absolute;
+    background: #07182E;
+    inset: 5px;
+    border-radius: 15px;
+}
+
+
+/*Finaliza card agropecuario*/
+
+/*inicio card Clips*/
+
+.imgContClips{
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 80px;
+}
+
+.imgClips {
+    width: 150px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.cardClips {
+    width: 250px;
+    height: 350px;
+    background: #07182E;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    place-content: center;
+    place-items: center;
+    overflow: hidden;
+    border-radius: 20px;
+    margin: 25px;
+}
+
+.cardClips div {
+    z-index: 1;
+    color: #ffffff;
+}
+
+.cardTextClips {
+    padding: 10px;
+}
+
+.cardClips::before {
+    content: '';
+    position: absolute;
+    width: 100px;
+    background-image: linear-gradient(180deg, #BF0811, #BF0811);
+    height: 150%;
+    animation: rotBGimg 10s linear infinite;
+    transition: all 0.2s linear;
+}
+
+@keyframes rotBGimg {
+    from {
+        transform: rotate(deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.cardClips::after {
+    content: '';
+    position: absolute;
+    background: #07182E;
+    inset: 5px;
+    border-radius: 15px;
+}
+
+
+/*Finaliza card Clips*/
