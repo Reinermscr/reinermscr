@@ -57,12 +57,24 @@ main > div > h1 {
 .imgContainer {
     display: flex;
     align-items: center;
-    flex-direction: row;
-    justify-content: start;
     padding: 4px;
     color: #FAD9B1;
+    
 }
 
+.imgContainer > p {
+    max-width: 700px;
+    min-width: 500px;
+    color: #ffffff;
+}
+
+.imgContainer > h5 {
+    width: 200px;
+    height: 30px;
+    color: #FAD9B1;
+    margin: 0px 0px 0px 0px;
+    padding-left: 10px;
+}
 
 footer {
     background-color: #FAD9B1;
