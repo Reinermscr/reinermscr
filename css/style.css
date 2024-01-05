@@ -1,11 +1,54 @@
+body {
+    background-color: #14192C;
+
+}
+
+main {
+    padding-top: 50px;
+}
+
 nav {
     display: flex;
+    position: fixed;
     justify-content: space-around;
     align-items: center;
     color: #ffffff;
     background-image: linear-gradient(#008cff, #14192C);
-    height: 100px;
+    width: 100%;
+    height: 50px;
+    z-index: 1000;
+    top: 0;
+    transition: 1s;
 
+}
+
+nav.abajo {
+    transition: 2s;
+    opacity: 0.9;
+}
+
+
+.informacion-pricipal {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+    padding: 0px 50px;
+}
+
+.foto-perfil {
+    height: 500px;
+    filter: grayscale(0.7);
+    border-radius: 100px;
+}
+
+
+
+.texto-presentacion {
+    color: #ffffff;
+    font-size: 20px;
+    margin: 0px 50px;
+    text-align: justify;
 }
 
 .nav-nombre {
@@ -15,19 +58,38 @@ nav {
     align-items: center;
 }
 
-body {
-    background-color: #14192C;
+.expeLabor {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
 }
 
+.lenguajes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    height: 75px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
 
+.img-lenguajes {
+    width: 50px;
+    margin: 0px 25px;
 
-/* 
-Color 1 #008cff
-Color 2 #E7633B
-Color 3 #FAD9B1
-Color 4 #FFFFFF
+}
 
-   */
+.nav-section,
+h6 {
+    display: flex;
+    margin: 0px 10px 0px 10px;
+}
+
+.nav-section>a {
+    color: #ffffff;
+}
 
 /* inicio de cards*/
 
@@ -72,7 +134,7 @@ Color 4 #FFFFFF
 
 /*inicio card construccion*/
 
-.imgContConst{
+.imgContConst {
     display: flex;
     justify-content: center;
     width: 200px;
@@ -135,10 +197,11 @@ Color 4 #FFFFFF
     inset: 5px;
     border-radius: 15px;
 }
+
 /*Finaliza card construccion*/
 
 /*inicio card agropecuario*/
-.imgContAgro{
+.imgContAgro {
     display: flex;
     justify-content: center;
     width: 200px;
@@ -202,10 +265,11 @@ Color 4 #FFFFFF
     inset: 5px;
     border-radius: 15px;
 }
+
 /*Finaliza card agropecuario*/
 
 /*inicio card Clips*/
-.imgContClips{
+.imgContClips {
     display: flex;
     justify-content: center;
     width: 200px;
@@ -282,6 +346,6 @@ footer {
     background-color: #777777;
     height: 150px;
     width: 100%;
-    position: fixed;
+    position: relative;
     bottom: 0;
 }
