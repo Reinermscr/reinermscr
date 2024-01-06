@@ -1,3 +1,8 @@
+html {
+    scroll-behavior: smooth;
+    scroll-margin: 20px;
+}
+
 body {
     background-color: #14192C;
 
@@ -5,6 +10,10 @@ body {
 
 main {
     padding-top: 50px;
+}
+
+div[id] {
+    scroll-margin-top: 50px;
 }
 
 nav {
