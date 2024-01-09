@@ -47,7 +47,7 @@ nav.abajo {
 
 .foto-perfil {
     height: 500px;
-    filter: grayscale(0.7);
+    filter: grayscale(0.5);
     border-radius: 100px;
 }
 
@@ -87,7 +87,6 @@ nav.abajo {
 .img-lenguajes {
     width: 50px;
     margin: 0px 25px;
-
 }
 
 .nav-section,
@@ -346,6 +345,17 @@ h6 {
 /*Finaliza card Clips*/
 
 /* Finaliza de cards*/
+
+.cards-bg {
+    width: 250px;
+    height: 250px;
+    background-color: #777777;
+    border: solid 5px;
+    border-color: #006b98  ;
+    border-radius: 25px;
+    margin: 50px;
+
+}
 
 footer {
     display: flex;
